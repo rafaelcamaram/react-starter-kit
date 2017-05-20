@@ -1,7 +1,7 @@
 <img src="./logo.png" alt="alt text" width="50%" height="50%">
 
 A simplified and restructured fork of [create-react-app](https://github.com/facebookincubator/create-react-app).
-You can create React apps with no build configuration. But if something does'nt work *please* [**file an issue**](https://github.com/rafaelcaramam/react-starter-kit/issues/new).
+You can create React apps with no build configuration. But if something doesnt work *please* [**file an issue**](https://github.com/rafaelcaramam/react-starter-kit/issues/new).
 
 ## Status?
 
@@ -24,7 +24,7 @@ Just create a project, and you’re good to go.
 npm install
 ```
 
-2. **Run this baby**
+2. **Run**
 
 ```sh
 npm start
